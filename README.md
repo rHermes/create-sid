@@ -1,3 +1,3 @@
 # create-sid
 
-`create-sid` creates a SID from an UUID
+`create-sid` creates a SID from an GUID
